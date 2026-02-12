@@ -13,7 +13,7 @@ Currently learning, building, and experimenting across AI, distributed systems, 
 - Personalised Financial Prediction & Recommendation System
 - Medical Image Classification using Vision Transformers
 - Distributed Image Processing Engine  
-- IoT-Based Health Monitoring (Published Work)
+- IoT-Based Health Monitoring System (Published Work)
 
 ---
 
