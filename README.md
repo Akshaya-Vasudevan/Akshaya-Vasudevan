@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Akshaya!
 
-<!--
-**Akshaya-Vasudevan/Akshaya-Vasudevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & Data Science undergraduate exploring machine learning and real-world AI systems  
+I enjoy building intelligent systems that combine mathematical foundations with practical engineering.
 
-Here are some ideas to get you started:
+Currently learning, building, and experimenting across AI, distributed systems, and applied ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Notable Works
+  
+- Multi-Modal Fake Review Detection  
+- Personalised Financial Prediction & Recommendation System
+- Medical Image Classification using Vision Transformers
+- Distributed Image Processing Engine  
+- IoT-Based Health Monitoring (Published Work)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,mysql,c,java,mongodb,tensorflow" />
+</p>
+
+---
+
+## 📫 Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Akshaya-Vasudevan/)
+- 📧 [Email](mailto:akshayavasu2705@gmail.com)
+
