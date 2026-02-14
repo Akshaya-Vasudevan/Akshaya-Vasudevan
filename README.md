@@ -1,6 +1,6 @@
 # Hey, I'm Akshaya!
 
-I'm a pre-final year AI & Data Science undergraduate exploring machine learning and real-world AI systems  
+I'm a pre-final year AI & Data Science undergraduate student exploring machine learning and real-world AI systems  
 I enjoy building intelligent systems that combine mathematical foundations with practical engineering.
 
 Currently learning, building, and experimenting across AI, distributed systems, and applied ML.
