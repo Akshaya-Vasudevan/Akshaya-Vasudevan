@@ -11,7 +11,7 @@ Currently learning, building, and experimenting across AI, distributed systems, 
   
 - Multi-Modal Fake Review Detection  
 - Personalised Financial Prediction & Recommendation System
-- Medical Image Classification using Vision Transformers
+- Medical Imaging Classification System
 - Distributed Image Processing Engine  
 - IoT-Based Health Monitoring System (Published Work)
 
