@@ -9,7 +9,7 @@ Currently learning, building, and experimenting across AI, distributed systems, 
 
 ## 🚀 Notable Works
   
-- Multi-Modal Fake Review Detection  
+- Multi-Modal Fake Review Detection System
 - Personalised Financial Prediction & Recommendation System
 - Medical Imaging Classification System
 - Distributed Image Processing Engine  
