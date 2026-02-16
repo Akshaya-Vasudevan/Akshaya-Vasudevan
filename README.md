@@ -27,6 +27,6 @@ Currently learning, building, and experimenting across AI, distributed systems, 
 
 ## 📫 Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/Akshaya-Vasudevan/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Akshaya--Vasudevan/)
 - 📧 [Email](mailto:akshayavasu2705@gmail.com)
 
